@@ -1,6 +1,6 @@
 # Race_Gestures
 
-Control racing games using gestures in cv2
+Control racing games using gestures in cv2,mediapipe
 
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
