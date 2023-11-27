@@ -11,6 +11,5 @@ Control racing games using gestures in cv2
 ## RUN
 
 ```
-bash
 Python3 GestureControl.py
 ```
