@@ -1,7 +1,5 @@
 # Race_Gestures
 
-# Race_Gestures
-
 Control racing games using gestures in cv2## Badges
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
