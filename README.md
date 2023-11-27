@@ -10,4 +10,7 @@ Control racing games using gestures in cv2
 [MIT](https://choosealicense.com/licenses/mit/)
 ## RUN
 
-```Python3 GestureControl.py```
+```
+bash
+Python3 GestureControl.py
+```
